@@ -1,0 +1,44 @@
+
+ 
+.contenedor{
+    display: flex;
+    padding-top: 5%;
+     
+
+}
+.contenedor_texto{
+     
+border: green solid 2px;
+width: 80%;
+overflow:hidden;
+border-radius: 10%;
+margin: 2px auto;
+}
+li{
+    text-decoration: none;
+}
+.card_box{
+    width: 30%;
+    height: 500px;
+    text-align: center;
+    background: white;
+    border-radius: 5%;
+    border: green solid 2px;
+    margin: 2px auto;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+
+}
+li{
+    margin-top: 10px;
+}
+button{
+margin-top: 50px;
+    width: 100px;
+    height: 50px;
+    border-radius: 20%;
+    
+    background: black;
+    color: white;
+}
